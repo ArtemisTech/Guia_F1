@@ -1,12 +1,9 @@
 ## 🏎️ Guia F1
 
 Esse projeto é um aplicativo para dispositivos Android e foi desenvolvido para um projeto de conclusão de curso e publicado em 2023.
-
-*This project is an application for Android devices and was developed for a final project and published in 2023.*
-
-
 Foram utilizadas as tecnologias React Native e Firebase.
 
+*This project is an application for Android devices and was developed for a final project and published in 2023.*
 *React Native and Firebase technologies were used.*
 
 <img align="center" alt="react native" src="https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" style="border-radius: 5px;">
